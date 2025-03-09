@@ -4,4 +4,4 @@ numpy>=1.24.3
 pandas>=2.0.3
 datasets
 scikit-learn
-torch
+torch==2.0.0
