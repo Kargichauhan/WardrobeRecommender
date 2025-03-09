@@ -1,5 +1,5 @@
 import streamlit as st
-from wardobe_recommender import WardrobeRecommender
+from WardrobeRecommender import WardrobeRecommender
 from PIL import Image
 import io
 import base64
